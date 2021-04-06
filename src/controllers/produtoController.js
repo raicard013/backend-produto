@@ -1,4 +1,4 @@
-// Define a utilização do model cliente e a dependência http-status
+// Define a utilização do model produto e a dependência http-status
 const Produto = require('../models/produto');
 const status = require('http-status');
  
